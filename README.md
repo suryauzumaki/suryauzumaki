@@ -38,8 +38,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/you_b_tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="surya uzumaki" height="30" width="40" /></a>
-<a href="https://youtube.com/@You_B_Tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="surya uzumaki" height="30" width="40" /></a>
+<a href="https://t.me/suryatechpc" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/telegram.svg" alt="surya uzumaki" height="30" width="40" /></a>
+<a href="https://instagram.com/surya-in.trend" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="surya uzumaki" height="30" width="40" /></a>
+<a href="https://youtube.com/@cryptoxam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="surya uzumaki" height="30" width="40" /></a>
 </p>
 
 ###
