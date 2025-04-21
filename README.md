@@ -1,4 +1,4 @@
-<h2 align="left">Hello World!, I'm Surya, a App Developer 👋🏼:</h2>
+<h2 align="left">Hello World!, I'm Surya, I'm developer from India 👋🏼:</h2>
 
 ###
 
@@ -38,9 +38,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/you_b_tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="you b tech" height="30" width="40" /></a>
-<a href="https://instagram.com/you_b_tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="you_b_tech" height="30" width="40" /></a>
-<a href="https://youtube.com/@You_B_Tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="you b tech" height="30" width="40" /></a>
+<a href="https://instagram.com/you_b_tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="surya uzumaki" height="30" width="40" /></a>
+<a href="https://youtube.com/@You_B_Tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="surya uzumaki" height="30" width="40" /></a>
 </p>
 
 ###
